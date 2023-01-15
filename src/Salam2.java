@@ -1,9 +1,9 @@
 public class Salam2 {
 
     public static void main(String[] args) {
-        System.out.println("this is my First C';gklommit");
-        System.out.println("this is second rfile");
-        System.out.println("this is third line of code");
+        System.out.println("12345,mb mn32");
+        System.out.println("it would be better to initiate it");
+        System.out.println("ldkfhslkjfhs");
     }
 
 
