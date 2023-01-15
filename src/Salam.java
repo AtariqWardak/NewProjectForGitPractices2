@@ -1,5 +1,5 @@
 public class Salam {
     public static void main(String[] args) {
-        System.out.println("this is the third commit and there");
+        System.out.println("where is the merge going to");
     }
     }
