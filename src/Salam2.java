@@ -1,7 +1,7 @@
 public class Salam2 {
 
     public static void main(String[] args) {
-        System.out.println("12345332232");
+        System.out.println("12345,mb mn32");
     }
 
 
